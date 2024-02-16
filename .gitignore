@@ -1,0 +1,12 @@
+*-cache.lib
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+bom
+*.csv
+*.xml
+*.kicad_prl
+*-backups
+*.net
+_autosave*
